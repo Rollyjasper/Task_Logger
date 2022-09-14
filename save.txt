@@ -1,0 +1,14 @@
+Walk|8|2022-09-14|1 day, 0:00:00|false
+Washing-Up|2|2022-09-14|1 day, 0:00:00|false
+Recycling|3|2022-09-14|3 days, 0:00:00|false
+Bins|3|2022-09-14|3 days, 0:00:00|false
+Hoovering|2|2022-09-14|7 days, 0:00:00|false
+Clean Bathroom|2|2022-09-14|7 days, 0:00:00|false
+Brush Teath|10|2022-09-14|1 day, 0:00:00|false
+Shower|3|2022-09-14|2 days, 0:00:00|false
+Washing|3|2022-09-14|4 days, 0:00:00|false
+Clean Kitchen|2|2022-09-14|14 days, 0:00:00|false
+Tidy Flat|2|2022-09-14|14 days, 0:00:00|false
+Make Bed|8|2022-09-14|1 day, 0:00:00|false
+Feed Dog|2|2022-09-14|1 day, 0:00:00|false
+Walk Dog|3|2022-09-14|1 day, 0:00:00|false
